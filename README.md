@@ -1,2 +1,2 @@
 # refactoring-ruby-edition
-リファクタリング:Rubyエディションのメモ
+リファクタリング:Rubyエディションの読書メモ
